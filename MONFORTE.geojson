@@ -1,4 +1,4 @@
-{
+geo({
     "type": "FeatureCollection",
     "name": "MONFORTE",
     "crs": {
@@ -153,4 +153,4 @@
             }
         }
     ]
-}
+});
