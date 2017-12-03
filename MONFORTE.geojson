@@ -1,0 +1,156 @@
+{
+    "type": "FeatureCollection",
+    "name": "MONFORTE",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "codigo": "43001",
+                "descripcion": "Av.Monforte de Lemos O-E - Camino Ganapanes-Av.Betanzos",
+                "latitud": 40.477430046288397,
+                "longitud": -3.7131270481767
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7131270481767,
+                    40.477430046288397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "codigo": "43002",
+                "descripcion": "Av.Monforte de Lemos O-E - Av.Betanzos-Pl.Verín",
+                "latitud": 40.477933107855598,
+                "longitud": -3.7110831644675799
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.71108316446758,
+                    40.477933107855598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "codigo": "43003",
+                "descripcion": "Av.Monforte de Lemos E-O - Pl.Verín-Av.Betanzos",
+                "latitud": 40.478040425100701,
+                "longitud": -3.7110251623441299
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.71102516234413,
+                    40.478040425100701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "codigo": "43004",
+                "descripcion": "Av.Monforte de Lemos O-E - Pl.Verín-Pl.Fonsagrada",
+                "latitud": 40.478262837103202,
+                "longitud": -3.7094691862190601
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.70946918621906,
+                    40.478262837103202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "codigo": "43005",
+                "descripcion": "Av.Monforte de Lemos E-O - Pl.Arteijo-Pl.Fonsagrada",
+                "latitud": 40.478830642724901,
+                "longitud": -3.70729766454444
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.70729766454444,
+                    40.478830642724901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "codigo": "43006",
+                "descripcion": "Av.Monforte de Lemos O-E - Pl.Arteijo-Ginzo de Limia",
+                "latitud": 40.479004345469697,
+                "longitud": -3.7059018735401001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7059018735401,
+                    40.479004345469697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "codigo": "43007",
+                "descripcion": "(AFOROS) Av.Monforte de Lemos O-E - Ginzo de Limia-Finisterre",
+                "latitud": 40.4794271393218,
+                "longitud": -3.7036571052867999
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7036571052868,
+                    40.4794271393218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "codigo": "43008",
+                "descripcion": "Av.Monforte de Lemos E-O - Finisterre-Ginzo de Limia",
+                "latitud": 40.479657908007702,
+                "longitud": -3.7029853282575802
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.70298532825758,
+                    40.479657908007702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "codigo": "43009",
+                "descripcion": "(AFOROS)Av.Monforte de Lemos E-O - Coleg.Principe-Finisterre",
+                "latitud": 40.479943365107097,
+                "longitud": -3.7016504681504001
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7016504681504,
+                    40.479943365107097
+                ]
+            }
+        }
+    ]
+}
